@@ -1,16 +1,33 @@
-## Hi there 👋
+# Harsh Tandel
+Smart Contract Security Researcher | Web3 Security Engineer
 
-<!--
-**HARSH-21/HARSH-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in identifying vulnerabilities in Solidity-based DeFi protocols, performing manual smart contract audits, and developing exploit proofs-of-concept.
 
-Here are some ideas to get you started:
+## Areas of Expertise
+- Smart Contract Auditing
+- Crypto Exchange Hacking
+- Blockchain Threat Modeling
+- Blockchain Incident Response
+  
+## Tools
+Slither | Foundry | Mythril | Echidna | Hardhat | Tenderly
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Audit Portfolio
+- Smart Contract Security Reports
+- DeFi Protocol Code Reviews
+- Exploit Simulations
+
+## CTF & Security Labs
+-Ethernaut
+
+# Audit Findings:
+High: 5
+Medium: 4
+Low: 2
+
+# Contest Platforms:
+CodeHawks
+Code4rena
+Sherlock
+Sherlock
+CodeHawks
