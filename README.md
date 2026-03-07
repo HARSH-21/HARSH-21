@@ -17,9 +17,6 @@ Slither | Foundry | Mythril | Echidna | Hardhat | Tenderly
 - DeFi Protocol Code Reviews
 - Exploit Simulations
 
-## CTF & Security Labs
--Ethernaut
-
 # Audit Findings:
 High: 5
 Medium: 4
