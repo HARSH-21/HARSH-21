@@ -27,7 +27,5 @@ Low: 2
 
 # Contest Platforms:
 CodeHawks
+Sherlock
 Code4rena
-Sherlock
-Sherlock
-CodeHawks
