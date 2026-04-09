@@ -13,7 +13,7 @@ Slither | Foundry | Mythril | Echidna | Hardhat | Tenderly
 Created An all-in-one smart contract auditing toolkit combining static analysis, fuzzing, symbolic execution, invariant testing, and formal verification with automated reporting.Built for security engineers, auditors, and Web3 developers to identify vulnerabilities efficiently.
 
 # Audit Findings:
-High severity: 12 | Medium severity: 10 |Low severity : 8
+High severity: 12 | Medium severity: 10 | Low severity : 8
 
 # Contest Platforms:
 CodeHawks | Sherlock | Code4rena
